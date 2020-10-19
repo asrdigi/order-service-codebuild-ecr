@@ -43,7 +43,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>order-service-aws</finalName>
+		<finalName>order-service-ecr</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
